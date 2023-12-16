@@ -1,4 +1,4 @@
-# Expressjs backens=d API application
+# TypeScript/Expressjs backend API application
 
 This is an API boilerplate for ExpressJs, it comes pre-configured with.
 
